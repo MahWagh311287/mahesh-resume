@@ -1,0 +1,64 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Mahesh Waghmare - Resume</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: auto;
+      padding: 20px;
+      line-height: 1.6;
+      background: #f9f9f9;
+    }
+    h1, h2 {
+      color: #333;
+    }
+    .section {
+      margin-bottom: 25px;
+    }
+    .contact {
+      font-size: 0.9em;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+  <h1>Mahesh Waghmare</h1>
+  <p class="contact">Email: mahesh@example.com | Phone: +91-XXXXXXXXXX | Location: Mumbai, India</p>
+
+  <div class="section">
+    <h2>Summary</h2>
+    <p>Experienced DevOps & System Administrator with 3+ years working on Linux, SAP, AWS, and monitoring tools like Prometheus, Grafana, and Zabbix.</p>
+  </div>
+
+  <div class="section">
+    <h2>Skills</h2>
+    <ul>
+      <li>Cloud: AWS, Azure</li>
+      <li>Monitoring: Prometheus, Grafana, Zabbix</li>
+      <li>Automation: Ansible, Terraform</li>
+      <li>Containers: Docker, Kubernetes</li>
+      <li>SAP Basis & Security</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Experience</h2>
+    <h3>DevOps Engineer – Acuiti Labs (2022 - Present)</h3>
+    <ul>
+      <li>Implemented monitoring solutions using Prometheus & Grafana</li>
+      <li>Managed SAP HANA and SAP CC installations and patching</li>
+      <li>Automated server setup with Terraform & Ansible</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>Education</h2>
+    <p>BSc IT – Mumbai University</p>
+  </div>
+</body>
+</html>
